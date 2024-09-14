@@ -39,6 +39,13 @@ dependencies:
   logger: ^2.4.0
   dio: ^5.6.0
   firebase_core: ^2.24.2
+  flutter_secure_storage: ^9.2.2
+  shared_preferences: ^2.2.3
+  cached_network_image: ^3.4.1
+  persistent_bottom_nav_bar: ^6.2.1
+  responsive_framework: ^1.5.1
+  device_preview: ^1.2.0
+  auto_size_text: ^3.0.0
 
 dev_dependencies:
   flutter_test:
